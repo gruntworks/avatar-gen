@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gruntworks/avatar-gen/static/css/main.5c7d2838.css",
-    "main.js": "/gruntworks/avatar-gen/static/js/main.555b2e70.js",
-    "index.html": "/gruntworks/avatar-gen/index.html",
-    "main.5c7d2838.css.map": "/gruntworks/avatar-gen/static/css/main.5c7d2838.css.map",
-    "main.555b2e70.js.map": "/gruntworks/avatar-gen/static/js/main.555b2e70.js.map"
+    "main.css": "./static/css/main.5c7d2838.css",
+    "main.js": "./static/js/main.69653ab7.js",
+    "index.html": "./index.html",
+    "main.5c7d2838.css.map": "./static/css/main.5c7d2838.css.map",
+    "main.69653ab7.js.map": "./static/js/main.69653ab7.js.map"
   },
   "entrypoints": [
     "static/css/main.5c7d2838.css",
-    "static/js/main.555b2e70.js"
+    "static/js/main.69653ab7.js"
   ]
 }
