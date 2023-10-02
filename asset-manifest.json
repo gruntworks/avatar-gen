@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gruntworks/avatar-gen/static/css/main.5c7d2838.css",
+    "main.js": "/gruntworks/avatar-gen/static/js/main.555b2e70.js",
+    "index.html": "/gruntworks/avatar-gen/index.html",
+    "main.5c7d2838.css.map": "/gruntworks/avatar-gen/static/css/main.5c7d2838.css.map",
+    "main.555b2e70.js.map": "/gruntworks/avatar-gen/static/js/main.555b2e70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c7d2838.css",
+    "static/js/main.555b2e70.js"
+  ]
+}
